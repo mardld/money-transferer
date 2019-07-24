@@ -6,3 +6,7 @@ sample API using Spark Java, JOOQ, Guava
 
 # run tests
 `./gradlew test`
+
+# run app
+make sure executable is built and exist in path `build\libs\money-transferer.jar`
+`java -jar build\libs\money-transferer.jar`
